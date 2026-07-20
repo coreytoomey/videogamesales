@@ -1,1 +1,1 @@
-This dataset analyzes global video game sales from 1980 to 2020. It was sourced from Kaggle.com and compiled by Anand Shaw. The original CSV file, Video Game Sales, is publicly available for download on Kaggle.
+This dataset analyzes global video game sales from 1980 to 2020. It was sourced from Kaggle.com and compiled by Anand Shaw. The original CSV file, Video Game Sales, is publicly available for download on Kaggle. Analysis was done with SQL and on Databricks.
